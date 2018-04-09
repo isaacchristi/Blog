@@ -1,5 +1,5 @@
 # Blog
-First single page react blog site
+First single page react blog site(Isaac Christi)
 
 #Prerequisite
 
